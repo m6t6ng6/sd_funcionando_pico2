@@ -20,6 +20,10 @@
 - #define SD_SPI_PIN_CK    2   // SCK
 - #define SD_SPI_PIN_TX    3   // MOSI
 
+### SCREENSHOTS
+
+![image](https://github.com/user-attachments/assets/9ea8e01f-ca42-4832-bba8-39ae27e0968c)
+
 ## JUN-21-2025
 
 MVP
