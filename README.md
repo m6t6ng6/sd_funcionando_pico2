@@ -14,6 +14,7 @@
 - #define PIN_MOSI  03
 
 ### MODULO pico-rv32ima, AJUSTES en archivo: $(PROJECT_DIR)/../pico-rv32ima/pico-rv32ima/petitfatfs/mmcbbp.c
+https://github.com/m6t6ng6/pico-rv32ima/blob/main/pico-rv32ima/petitfatfs/mmcbbp.c
 - #define SD_SPI_INST      spi0
 - #define SD_SPI_PIN_RX    0   // MISO
 - #define SD_SPI_PIN_CS    1   // CS
